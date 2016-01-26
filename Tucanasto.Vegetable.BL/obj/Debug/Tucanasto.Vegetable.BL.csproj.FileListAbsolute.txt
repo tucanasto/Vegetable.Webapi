@@ -1,0 +1,5 @@
+J:\BanluIT\Tucanasto\Vegetable\Vegetable.Webapi\Tucanasto.Vegetable.BL\bin\Debug\Tucanasto.Vegetable.BL.dll
+J:\BanluIT\Tucanasto\Vegetable\Vegetable.Webapi\Tucanasto.Vegetable.BL\bin\Debug\Tucanasto.Vegetable.BL.pdb
+J:\BanluIT\Tucanasto\Vegetable\Vegetable.Webapi\Tucanasto.Vegetable.BL\obj\Debug\Tucanasto.Vegetable.BL.csprojResolveAssemblyReference.cache
+J:\BanluIT\Tucanasto\Vegetable\Vegetable.Webapi\Tucanasto.Vegetable.BL\obj\Debug\Tucanasto.Vegetable.BL.dll
+J:\BanluIT\Tucanasto\Vegetable\Vegetable.Webapi\Tucanasto.Vegetable.BL\obj\Debug\Tucanasto.Vegetable.BL.pdb
